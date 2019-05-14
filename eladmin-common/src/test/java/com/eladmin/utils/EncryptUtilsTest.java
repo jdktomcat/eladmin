@@ -2,7 +2,9 @@ package com.eladmin.utils;
 
 import org.junit.Test;
 
-import static com.eladmin.utils.EncryptUtils.*;
+import static com.eladmin.utils.EncryptUtils.desDecrypt;
+import static com.eladmin.utils.EncryptUtils.desEncrypt;
+import static org.junit.Assert.assertEquals;
 
 public class EncryptUtilsTest {
 
