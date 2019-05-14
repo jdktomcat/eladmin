@@ -7,7 +7,7 @@ import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-31
  */
 @CacheConfig(cacheNames = "alipay")

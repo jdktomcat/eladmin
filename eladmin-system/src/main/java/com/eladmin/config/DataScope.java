@@ -16,7 +16,7 @@ import java.util.Set;
 
 /**
  * 数据权限配置
- * @author jie
+ * @author tq
  * @date 2019-4-1
  */
 @Component

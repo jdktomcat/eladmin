@@ -9,7 +9,7 @@ import org.springframework.cache.annotation.Cacheable;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-31
  */
 @CacheConfig(cacheNames = "qiNiu")

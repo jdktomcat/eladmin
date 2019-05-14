@@ -10,7 +10,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-08
  */
 @CacheConfig(cacheNames = "permission")

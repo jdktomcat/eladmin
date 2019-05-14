@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * 定义Logfilter拦截输出日志
- * @author jie
+ * @author tq
  * @reference https://cloud.tencent.com/developer/article/1096792
  * @date 2018-12-24
  */

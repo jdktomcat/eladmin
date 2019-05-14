@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**
-* @author jie
+* @author tq
 * @date 2019-04-10
 */
 @Entity

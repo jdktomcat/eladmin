@@ -4,7 +4,7 @@ import com.eladmin.domain.VerificationCode;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-26
  */
 public interface VerificationCodeRepository extends JpaRepository<VerificationCode, Long> {

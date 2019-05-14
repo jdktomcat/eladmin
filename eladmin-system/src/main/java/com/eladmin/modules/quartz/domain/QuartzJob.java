@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.sql.Timestamp;
 
 /**
- * @author jie
+ * @author tq
  * @date 2019-01-07
  */
 @Data

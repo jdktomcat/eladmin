@@ -2,7 +2,7 @@ package com.eladmin.utils;
 
 /**
  * 常用静态常量
- * @author jie
+ * @author tq
  * @date 2018-12-26
  */
 public class ElAdminConstant {

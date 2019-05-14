@@ -13,7 +13,7 @@ import java.util.concurrent.Executors;
 
 /**
  * 配置WebSocket消息代理端点，即stomp服务端
- * @author jie
+ * @author tq
  * @reference https://cloud.tencent.com/developer/article/1096792
  * @date 2018-12-24
  */

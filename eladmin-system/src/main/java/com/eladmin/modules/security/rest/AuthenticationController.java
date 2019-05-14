@@ -18,7 +18,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-11-23
  * 授权、根据token获取用户详细信息
  */

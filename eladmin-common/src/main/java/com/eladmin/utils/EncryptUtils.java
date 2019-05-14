@@ -9,7 +9,7 @@ import javax.crypto.spec.IvParameterSpec;
 
 /**
  * 加密
- * @author jie
+ * @author tq
  * @date 2018-11-23
  */
 public class EncryptUtils {

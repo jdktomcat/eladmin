@@ -10,7 +10,7 @@ import javax.validation.constraints.NotBlank;
 import java.sql.Timestamp;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-26
  */
 @Data

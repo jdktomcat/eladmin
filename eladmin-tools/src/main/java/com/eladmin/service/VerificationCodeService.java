@@ -4,7 +4,7 @@ import com.eladmin.domain.VerificationCode;
 import com.eladmin.domain.vo.EmailVo;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-26
  */
 public interface VerificationCodeService {

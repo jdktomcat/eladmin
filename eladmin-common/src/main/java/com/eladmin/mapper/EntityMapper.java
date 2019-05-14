@@ -3,7 +3,7 @@ package com.eladmin.mapper;
 import java.util.List;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-11-23
  */
 public interface EntityMapper<D, E> {

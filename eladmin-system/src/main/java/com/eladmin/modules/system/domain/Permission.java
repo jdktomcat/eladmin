@@ -12,7 +12,7 @@ import java.sql.Timestamp;
 import java.util.Set;
 
 /**
- * @author jie
+ * @author tq
  * @date 2018-12-03
  */
 @Entity
