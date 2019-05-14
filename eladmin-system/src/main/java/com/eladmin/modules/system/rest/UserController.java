@@ -1,22 +1,21 @@
 package com.eladmin.modules.system.rest;
 
 import com.eladmin.aop.log.Log;
+import com.eladmin.config.DataScope;
+import com.eladmin.domain.Picture;
+import com.eladmin.domain.VerificationCode;
+import com.eladmin.exception.BadRequestException;
 import com.eladmin.modules.system.domain.User;
 import com.eladmin.modules.system.service.DeptService;
 import com.eladmin.modules.system.service.UserService;
 import com.eladmin.modules.system.service.dto.UserDTO;
 import com.eladmin.modules.system.service.query.UserQueryService;
-import com.eladmin.config.DataScope;
-import com.eladmin.domain.Picture;
-import com.eladmin.domain.VerificationCode;
-import com.eladmin.exception.BadRequestException;
 import com.eladmin.service.PictureService;
 import com.eladmin.service.VerificationCodeService;
 import com.eladmin.utils.ElAdminConstant;
 import com.eladmin.utils.EncryptUtils;
 import com.eladmin.utils.PageUtil;
 import com.eladmin.utils.SecurityUtils;
-import me.zhengjie.utils.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
@@ -28,7 +27,11 @@ import org.springframework.util.ObjectUtils;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
-import java.util.*;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * @author jie
